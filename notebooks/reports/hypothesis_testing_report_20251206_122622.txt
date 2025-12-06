@@ -1,0 +1,38 @@
+INSURANCE RISK ANALYSIS - HYPOTHESIS TESTING REPORT
+================================================================================
+Report generated on: 2025-12-06 12:26:22.743334
+
+HYPOTHESIS TESTING RESULTS
+================================================================================
+
+1. Fail to reject H?: No risk differences across provinces
+- No significant differences in claim severity across province groups
+- p-value: 0.6760
+--------------------------------------------------------------------------------
+
+2. Fail to reject H?: No risk differences between zip codes
+- No significant differences in risk metrics across zip code groups
+- p-value: 0.9515
+--------------------------------------------------------------------------------
+
+3. Fail to reject H?: No significant margin difference between zip codes
+- No significant differences in margin across zip code groups
+- p-value: 0.3964
+--------------------------------------------------------------------------------
+
+4. Fail to reject H?: No significant risk difference between Women and Men
+- No significant differences in risk metrics across gender groups
+- p-value: 0.9515
+--------------------------------------------------------------------------------
+
+BUSINESS RECOMMENDATIONS
+================================================================================
+
+3. Gender-Based Considerations:
+   - No significant risk differences were found between genders.
+   - Gender-neutral pricing appears appropriate based on the data.
+
+4. Data Quality:
+   - Ensure consistent data collection across all regions and demographics.
+   - Consider collecting additional variables that might explain the observed variations.
+   - Regularly update and validate your risk models with new data.
