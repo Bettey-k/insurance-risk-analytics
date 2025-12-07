@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 from pathlib import Path
 
-def load_insurance_data(file_path='../data/MachineLearningRating_v3.txt'):
+def load_data(file_path='../data/MachineLearningRating_v3.txt'):
     """
     Load and preprocess the insurance dataset.
     
